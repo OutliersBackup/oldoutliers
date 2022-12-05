@@ -1,0 +1,15 @@
+if game.PlaceId == 738339342 or game.PlaceId == 3552939575 or game.PlaceId == 1273079594 or game.PlaceId == 2198503790 or game.PlaceId == 2198548668 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/OutliersBackup/oldoutliers/main/Flood%20Escape%202",true))()
+end
+if game.PlaceId == 8562822414 or game.PlaceId == 9070657865 or game.PlaceId == 9070940724 or game.PlaceId == 9070941735 or game.PlaceId == 9070944007 or game.PlaceId == 9070945095 or game.PlaceId == 9070946020 or game.PlaceId == 9070946988 or game.PlaceId == 9070947985 or game.PlaceId == 9070949370 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/OutliersBackup/oldoutliers/main/Juke's%20Tower%20Of%20Hell",true))()
+end
+if game.PlaceId == 5307215810 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/OutliersBackup/oldoutliers/main/Randomizer",true))()
+end
+if game.PlaceId == 5780309044 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/OutliersBackup/oldoutliers/main/Stands%20Awakening",true))()
+end
+if game.PlaceId == 4588604953 or game.PlaceId == 8343259840 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/OutliersBackup/oldoutliers/main/Criminality",true))()
+end
